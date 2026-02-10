@@ -8,13 +8,10 @@
 - Collaboration with team
 
 ## Features
-<<<<<<< HEAD
 - Dark mode toggle
 - Responsive design
 - Clean UI
-=======
 8
 - Interactive dark mode
 - Modern UI design
 - Fast loading
->>>>>>> feature/update-readme
