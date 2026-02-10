@@ -36,4 +36,11 @@ transition: all 0.3s ease;
 }
 button:hover {
 transform: scale(1.05);
+/* New Animations */
+.fade-in {
+animation: fadeIn 0.5s;
+}
+@keyframes fadeIn {
+from { opacity: 0; }
+to { opacity: 1; }
 }
