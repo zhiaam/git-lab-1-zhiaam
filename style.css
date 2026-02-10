@@ -30,3 +30,10 @@ border: none;
 border-radius: 5px;
 }
 
+/* Button Styles */
+button {
+transition: all 0.3s ease;
+}
+button:hover {
+transform: scale(1.05);
+}
