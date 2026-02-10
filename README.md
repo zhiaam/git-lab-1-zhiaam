@@ -7,3 +7,8 @@
 - Version control
 - Collaboration with team
 
+## Features
+8
+- Interactive dark mode
+- Modern UI design
+- Fast loading
